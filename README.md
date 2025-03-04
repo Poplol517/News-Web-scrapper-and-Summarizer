@@ -11,4 +11,5 @@ Textrank:
 ![image](https://github.com/user-attachments/assets/2bd9100e-9364-46a1-b404-d38d1215f0b6)
 
 OpenAI API:
-![image](https://github.com/user-attachments/assets/b2527731-42ca-4170-9810-662e053325c5)
+![image](https://github.com/user-attachments/assets/8ce4d574-59ee-4be0-a424-466d9b19bc26)
+
