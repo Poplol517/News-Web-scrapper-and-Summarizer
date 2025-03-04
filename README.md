@@ -1,4 +1,4 @@
-Background: 
+BBC scarper Background: 
 
 Since sometimes news article can be long to read and I would be too lazy to read I have created a News Web Scrapper and Summariser to shorten my reading time.
 
